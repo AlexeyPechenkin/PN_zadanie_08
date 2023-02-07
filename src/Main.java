@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int[] arrMy1 = {1, 4, 7, 11, 14, 16, 21, 23, 26, 31, 101, 66};
+        int[] arrMy1 = {1, 4, 7, 11, 14, 16, 21, 23, 26, 31, 101, 66, 55, 44, 77};
         int[] arrRes;
         Separator sep1 = new Separator(arrMy1);
         arrRes = sep1.even();
